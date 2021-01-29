@@ -1,9 +1,9 @@
 import React, { useEffect } from 'react'
-import RNModuleTemplate, { Counter } from 'react-native-module-template'
+import RNKit, { Counter } from 'rn-kit'
 
 const App = () => {
   useEffect(() => {
-    console.log(RNModuleTemplate)
+    console.log("RNKit - - ->", RNKit.getConstants());
   })
 
   return <Counter />

@@ -1,14 +1,14 @@
 //
-//  RNModuleTemplate.swift
-//  RNModuleTemplate
+//  RNKit.swift
+//  RNKit
 //
-//  Copyright © 2021 Alex Demchenko. All rights reserved.
+//  Copyright © 2021 Chang Liu. All rights reserved.
 //
 
 import Foundation
 
-@objc(RNModuleTemplate)
-class RNModuleTemplate: NSObject {
+@objc(RNKit)
+class RNKit: NSObject {
   @objc
   func constantsToExport() -> [AnyHashable : Any]! {
     return ["count": 1]
