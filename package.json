@@ -1,7 +1,7 @@
 {
-  "name": "rn-kit",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@bobbyliu117/rn-kit",
+  "version": "0.0.5",
+  "description": "test react native kit",
   "homepage": "https://github.com/bobbyliu117/rn-kit#readme",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

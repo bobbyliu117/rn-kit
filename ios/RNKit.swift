@@ -11,7 +11,7 @@ import Foundation
 class RNKit: NSObject {
   @objc
   func constantsToExport() -> [AnyHashable : Any]! {
-    return ["count": 1]
+    return ["count": 2]
   }
 
   @objc
