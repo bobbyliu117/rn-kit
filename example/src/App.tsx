@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import RNKit, { Counter } from 'rn-kit'
+import RNKit, { Counter } from '@bobbyliu117/rn-kit'
 
 const App = () => {
   useEffect(() => {
